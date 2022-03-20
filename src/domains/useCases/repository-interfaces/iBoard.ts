@@ -1,4 +1,4 @@
-import { IBoardDTO } from "@domains/dto/boardDTO"
+import { IBoardDTO } from "@domains/dto/BoardDTO"
 import { ICommentDTO } from "@domains/dto/CommentDTO"
 
 export interface IBoardRepository {
